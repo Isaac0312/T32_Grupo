@@ -1,0 +1,44 @@
+.nav-link{
+    margin-left: 25px;
+}
+
+.p-2 a{
+    color: white;
+    font-size: x-large;
+}
+
+.button{
+    margin-left: 5px;
+}
+
+#nav1{
+    margin-left: 50px;
+}
+
+#bodycontainer{
+    text-align: center;
+}
+
+
+.btn{
+    background-color: #f8f9fa;
+    color: black;
+    border: 0px;
+}
+
+.navbar-dark{
+    background-color: #2980b9;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-link.barra1{
+    color: black;
+}
+
+.nav-link.barra2:hover{
+    color: black;
+    background-color: white;
+}
